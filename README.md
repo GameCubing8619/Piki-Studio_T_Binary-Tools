@@ -15,3 +15,7 @@ They can be any kind of object, e.g. a cube.
 P2Cutscene_Origin represents the origin of the cutscene, similar to the origin parameter of cutscenes in Pikmin 2.
 P2Cutscene_Cam represents the position of the viewer and P2Cutscene_Target represents the point being looked at.
 By animating the positions of P2Cutscene_Cam and P2Cutscene_Target you can create camera animations.
+
+#file header
+
+wip but a string i saw decoded into jstudio using anscii
